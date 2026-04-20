@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Imad 👋
 
-<!--
-**imadmurr/imadmurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineer (Lebanese University, 2026) focused on mobile development and AI-integrated backends.
 
-Here are some ideas to get you started:
+**Shipped:** VidEarn — a Kotlin/Android rewards app that reached 10k+ organic users  
+**Built:** Praxis Assistant — an AI assistant with RAG pipelines, Gemini API integration, and Flask APIs  
+**Studying:** Computer Engineering @ Lebanese University (graduating June 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+Mobile     →  Android (Kotlin, MVVM) · Flutter / Dart
+Backend    →  Python · Flask · REST APIs · JWT Auth 
+AI/ML      →  Agentic Workflows · Multi-agent systems · RAG · Gemini API · Vector Databases
+Infra/Cloud      →  Docker · Firebase · Git · Azure
+
+### Currently
+- Finishing my Computer Engineering degree
+- Open to full-time roles in **mobile development**, **AI engineering**, or **software engineering**
+- Based in Lebanon · Open to Gulf / remote
+
+📫 murrimad@outlook.com · [LinkedIn](https://www.linkedin.com/in/imad-el-murr-1b1097228/)
