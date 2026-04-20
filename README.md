@@ -2,7 +2,7 @@
 
 Computer Engineer at Lebanese University (graduating June 2026), focused on mobile development and AI-integrated systems.
 
-**Shipped** — built and launched [VidEarn](#), a Kotlin/Android rewards app that reached **10k+ organic users** over 2+ years of operation  
+**Shipped** — built and launched [VidEarn](https://github.com/imadmurr/VidEarn), a Kotlin/Android rewards app that reached **10k+ organic users** over 2+ years of operation  
 **Built** — developed Praxis Assistant, an AI chatbot for an ERP platform using RAG pipelines, FAISS vector search, and the Gemini API  
 **Currently** — open to full-time roles in mobile development, AI engineering, or software engineering
 
